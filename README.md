@@ -4,7 +4,7 @@ A hands-on course that takes you from zero to a **solid working foundation** in 
 
 This is a **foundation, not an encyclopedia**: three phases, finishable in a few weeks, with runnable and tested code at every step.
 
-> **Provenance & honesty note:** This course was assembled with heavy use of AI assistance and then curated, restructured, and verified. All code in `code/` was executed and tested against the official MCP Python SDK **v1.29** before being committed (see [Testing](#testing)). Version-specific details are hedged with an "inspect, don't memorize" approach because MCP moves fast — always verify against your installed SDK.
+> **Provenance & honesty note:** . Accuracy note: All code in code/ was executed and tested against the official MCP Python SDK v1.29 (July 2026) before being committed — see Testing. MCP moves fast, so version-specific details use an "inspect, don't memorize" approach; always verify against your installed SDK.
 
 ## Who this is for
 
