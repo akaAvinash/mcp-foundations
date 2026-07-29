@@ -1,0 +1,8 @@
+# The official MCP Python SDK, pinned to the v1.x line.
+# IMPORTANT: `pip install mcp` now installs v2.x, which has a different
+# API (no mcp.server.fastmcp). This course and all code target v1.x.
+# Verified against mcp 1.29.0.
+mcp[cli]>=1.27,<2
+
+# For the test suite:
+pytest>=8.0
